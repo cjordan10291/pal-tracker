@@ -42,5 +42,5 @@ public class TimeEntryHealthIndicator implements HealthIndicator{
     }
 
 
-    
+
 }
